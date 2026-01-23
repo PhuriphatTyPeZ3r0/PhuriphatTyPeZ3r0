@@ -30,7 +30,7 @@
 
 ## 📚 Academic Background & Coursework
 
-Here are the key courses I have completed or am currently studying, building a strong foundation in Engineering and AI:
+Building a strong foundation in Engineering and AI:
 
 | **Category** | **Key Courses** |
 | :--- | :--- |
@@ -43,24 +43,23 @@ Here are the key courses I have completed or am currently studying, building a s
 
 ## 🚀 Skills & Tools
 
-Here is the technology stack I use to build my projects:
-
-### 💻 Languages
+### 💻 Languages & Scripting
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠 Tools & Frameworks
+### 🛠 Tools & Databases
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -86,9 +85,4 @@ Here is the technology stack I use to build my projects:
 | **GitHub** | [@PhuriphatiZAMU](https://github.com/PhuriphatiZAMU) |
 | **Email** | [phuriphathem@gmail.com](mailto:phuriphathem@gmail.com) |
 
-</div>
-
-<br/>
-<div align="center">
-  <i>Thanks for visiting my profile! Feel free to check out my repositories.</i>
 </div>
