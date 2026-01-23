@@ -1,12 +1,14 @@
-# 👋 Hi there, I’m Phuriphat! (@PhuriphatiZAMU)
+# 👋 Hi there, I’m Phuriphat Hemkul! (@PhuriphatiZAMU)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PhuriphatiZAMU&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Game%20Dev%20Enthusiast%20|%20AI%20Learner&descAlignY=55&descAlign=62" alt="PhuriphatiZAMU Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PhuriphatiZAMU&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Eng%20Student%20|%20Game%20Dev%20|%20AI%20Enthusiast&descAlignY=55&descAlign=62" alt="PhuriphatiZAMU Header" width="100%"/>
 </div>
 
 <div align="center">
   
-  **Passionate about Programming, OOP, and Software Development** *Turning logic into application & simulation.*
+  **2nd Year Student in Computer Engineering and Artificial Intelligence**
+  <br/>
+  *Panyapiwat Institute of Management (PIM)*
 
   [![GitHub followers](https://img.shields.io/github/followers/PhuriphatiZAMU?label=Followers&style=social)](https://github.com/PhuriphatiZAMU)
   [![GitHub stars](https://img.shields.io/github/stars/PhuriphatiZAMU?style=social)](https://github.com/PhuriphatiZAMU)
@@ -17,10 +19,25 @@
 
 ## 🌟 About Me
 
-- 🎓 **Passionate Developer:** I specialize in **Object-Oriented Programming (OOP)** and software architecture.
-- 💡 **Current Focus:** Deep diving into **Java Ecosystem**, **Web Development**, and exploring the world of **Artificial Intelligence**.
+- 👤 **Profile:** My name is **Phuriphat Hemkul**.
+- 🎓 **Education:** Currently a **2nd Year Student** at **Panyapiwat Institute of Management**.
+- 🏫 **Faculty & Major:** Studying **Computer Engineering and Artificial Intelligence** within the **Faculty of Engineering and Technology**.
+- 💡 **Passion:** I specialize in **Object-Oriented Programming (OOP)**, **Software Architecture**, and **AI Technologies**.
 - 🎮 **Game & Sim:** Strong interest in **Game Development** and **Simulation Systems** (physics, mechanics, and logic).
-- 📚 **Continuous Learner:** I love experimenting with small projects to sharpen my skills in algorithms and system design.
+- 📚 **Goal:** Applying engineering mathematics and algorithmic thinking to solve real-world problems.
+
+---
+
+## 📚 Academic Background & Coursework
+
+Here are the key courses I have completed or am currently studying, building a strong foundation in Engineering and AI:
+
+| **Category** | **Key Courses** |
+| :--- | :--- |
+| 🤖 **AI & Mathematics** | Mathematics for AI 1 & 2 • Engineering Mathematics 1 & 2 • Engineering Physics 1 & 2 |
+| 💻 **Software Engineering** | Data Structure and Algorithm • Object Oriented Cross-Platform Programming • Programming Fundamentals |
+| 🌐 **Systems & Data** | Database Systems and Big Data • Networking Systems and Cloud • Fullstack Web Developer (Selected Topics) |
+| ⚡ **Hardware** | Circuits and Electronics for Computer Engineers • Engineering Physics Laboratory |
 
 ---
 
