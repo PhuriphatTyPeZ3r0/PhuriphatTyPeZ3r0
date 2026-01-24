@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.tenor.com/b_3d_6Zz6iYAAAAC/renton-eureka-seven.gif" width="100%" alt="Renton Eureka Seven Hover Board" />
+  <img src="[https://media.tenor.com/b_3d_6Zz6iYAAAAC/renton-eureka-seven.gif](https://tenor.com/th/view/renton-eureka-seven-hover-board-anime-clouds-gif-17902611)" width="100%" alt="Renton Eureka Seven Hover Board" />
 </div>
 
 <br/>
