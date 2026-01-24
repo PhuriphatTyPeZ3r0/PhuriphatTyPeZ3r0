@@ -23,6 +23,14 @@
 - 🎮 **Game & Sim:** Strong interest in **Game Development** and **Simulation Systems** (physics, mechanics, and logic).
 - 📚 **Goal:** Applying engineering mathematics and algorithmic thinking to solve real-world problems.
 
+<br/>
+
+<div align="center">
+  <img src="https://media.tenor.com/b_3d_6Zz6iYAAAAC/renton-eureka-seven.gif" width="100%" alt="Renton Eureka Seven Hover Board" />
+</div>
+
+<br/>
+
 ---
 
 ## 📚 Academic Background & Coursework
