@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Phuriphat Hemkul! (@PhuriphatiZAMU)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PhuriphatiZAMU&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Eng%20Student%20|%20Game%20Dev%20|%20AI%20Enthusiast&descAlignY=55&descAlign=62" alt="PhuriphatiZAMU Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PhuriphatiZAMU&fontSize=90&animation=fadeIn&fontAlignY=38" alt="PhuriphatiZAMU Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,9 +9,6 @@
   **2nd Year Student in Computer Engineering and Artificial Intelligence**
   <br/>
   *Panyapiwat Institute of Management (PIM)*
-
-  [![GitHub followers](https://img.shields.io/github/followers/PhuriphatiZAMU?label=Followers&style=social)](https://github.com/PhuriphatiZAMU)
-  [![GitHub stars](https://img.shields.io/github/stars/PhuriphatiZAMU?style=social)](https://github.com/PhuriphatiZAMU)
   
 </div>
 
