@@ -63,19 +63,6 @@ Building a strong foundation in Engineering and AI:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhuriphatiZAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="PhuriphatiZAMU's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuriphatiZAMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhuriphatiZAMU&theme=tokyonight&hide_border=true" alt="Streak Stats" width="80%"/>
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
