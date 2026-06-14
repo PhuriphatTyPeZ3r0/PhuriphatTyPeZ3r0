@@ -1,7 +1,7 @@
-# 👋 Hi there, I’m Phuriphat Hemkul! (@PhuriphatiZAMU)
+# 👋 Hi there, I’m Phuriphat Hemkul! (@PhuriphatTyPeZ3r0)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PhuriphatiZAMU&fontSize=90&animation=fadeIn&fontAlignY=38" alt="PhuriphatiZAMU Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PhuriphatiZAMU&fontSize=90&animation=fadeIn&fontAlignY=38" alt="PhuriphatTyPeZ3r0 Header" width="100%"/>
 </div>
 
 <div align="center">
