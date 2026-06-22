@@ -66,7 +66,7 @@ Building a strong foundation in Engineering and AI:
 
 | Platform | Link |
 | :---: | :--- |
-| **GitHub** | [@PhuriphatiZAMU](https://github.com/PhuriphatiZAMU) |
+| **GitHub** | [@PhuriphatTyPeZ3r0](https://github.com/PhuriphatiZAMU) |
 | **Email** | [phuriphathem@gmail.com](mailto:phuriphathem@gmail.com) |
 
 </div>
