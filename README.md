@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  **2nd Year Student in Computer Engineering and Artificial Intelligence**
+  **3rd Year Student in Computer Engineering and Artificial Intelligence**
   <br/>
   *Panyapiwat Institute of Management (PIM)*
   
@@ -17,24 +17,23 @@
 ## 🌟 About Me
 
 - 👤 **Profile:** My name is **Phuriphat Hemkul**.
-- 🎓 **Education:** Currently a **2nd Year Student** at **Panyapiwat Institute of Management**.
+- 🎓 **Education:** Currently a **3rd Year Student** at **Panyapiwat Institute of Management**.
 - 🏫 **Faculty & Major:** Studying **Computer Engineering and Artificial Intelligence** within the **Faculty of Engineering and Technology**.
 - 💡 **Passion:** I specialize in **Object-Oriented Programming (OOP)**, **Software Architecture**, and **AI Technologies**.
+- 🌐 **Full-Stack Development:** I build full-stack web applications across a range of domains — from healthcare and government services to gaming tools and computer vision.
 - 🎮 **Game & Sim:** Strong interest in **Game Development** and **Simulation Systems** (physics, mechanics, and logic).
 - 📚 **Goal:** Applying engineering mathematics and algorithmic thinking to solve real-world problems.
 
 ---
 
-## 📚 Academic Background & Coursework
+## 📚 Academic Background
 
-Building a strong foundation in Engineering and AI:
+Building a strong foundation in Engineering and AI within the Computer Engineering and Artificial Intelligence program at PIM, spanning:
 
-| **Category** | **Key Courses** |
-| :--- | :--- |
-| 🤖 **AI & Mathematics** | Mathematics for AI 1 & 2 • Engineering Mathematics 1 & 2 • Engineering Physics 1 & 2 |
-| 💻 **Software Engineering** | Data Structure and Algorithm • Object Oriented Cross-Platform Programming • Programming Fundamentals |
-| 🌐 **Systems & Data** | Database Systems and Big Data • Networking Systems and Cloud • Fullstack Web Developer (Selected Topics) |
-| ⚡ **Hardware** | Circuits and Electronics for Computer Engineers • Engineering Physics Laboratory |
+- 🤖 **AI & Mathematics** — engineering mathematics, physics, and the mathematical foundations of AI
+- 💻 **Software Engineering** — OOP, data structures & algorithms, and cross-platform programming
+- 🌐 **Full-Stack & Cloud Systems** — databases, networking, cloud, and web development
+- ⚡ **Hardware Fundamentals** — circuits, electronics, and engineering physics labs
 
 ---
 
@@ -44,19 +43,49 @@ Building a strong foundation in Engineering and AI:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠 Tools & Databases
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Links |
+| :--- | :--- | :--- |
+| **RoV-SN-Tournament-Official** | TypeScript, PostgreSQL | [Live](https://ro-v-sn-tournament-official.vercel.app) · [Repo](https://github.com/PhuriphatTyPeZ3r0/RoV-SN-Tournament-Official) |
+| **CKD-Diet-Tracker** | JavaScript, PostgreSQL | [Live](https://ckd-diet-tracker.vercel.app) · [Repo](https://github.com/PhuriphatTyPeZ3r0/CKD-Diet-Tracker) |
+| **Bio-Website** | TypeScript | [Live](https://bio-website-ten.vercel.app) · [Repo](https://github.com/PhuriphatTyPeZ3r0/Bio-Website) |
+| **Portfolio** | TypeScript | [Live](https://resume-phuriphat-hemakul.vercel.app) · [Repo](https://github.com/PhuriphatTyPeZ3r0/Portfolio) |
+| **Hand-to-Text** | Python | [Repo](https://github.com/PhuriphatTyPeZ3r0/Hand-to-Text) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhuriphatTyPeZ3r0&show_icons=true&theme=tokyonight&hide_border=true" alt="PhuriphatTyPeZ3r0's GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PhuriphatTyPeZ3r0&theme=tokyonight&hide_border=true" alt="PhuriphatTyPeZ3r0's GitHub Streak"/>
+</div>
 
 ---
 
