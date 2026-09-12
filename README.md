@@ -5,6 +5,12 @@
 </div>
 
 <div align="center">
+  <a href="https://bio-website-ten.vercel.app/github-orbit">
+    <img src="https://img.shields.io/badge/%E2%9C%A8_Explore_my_skills_in_3D-1a1b27?style=for-the-badge&logoColor=white&color=7aa2f7" alt="Explore my skills in an interactive 3D scene"/>
+  </a>
+</div>
+
+<div align="center">
   
   **3rd Year Student in Computer Engineering and Artificial Intelligence**
   <br/>
@@ -61,6 +67,22 @@ Building a strong foundation in Engineering and AI within the Computer Engineeri
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🪐 Interactive 3D Skills Orbit
+
+<div align="center">
+
+A three.js / react-three-fiber scene where my core tech stack orbits a live GitHub hub — drag to rotate, scroll to zoom, or just let it auto-rotate.
+
+_GitHub strips `<script>`/`<iframe>` out of README rendering, so this can't run inline here — click through for the real, interactive version._
+
+[![GitHub Skills Orbit preview](assets/github-orbit-preview.gif)](https://bio-website-ten.vercel.app/github-orbit)
+
+**[→ Open the live 3D scene](https://bio-website-ten.vercel.app/github-orbit)**
+
+</div>
 
 ---
 
