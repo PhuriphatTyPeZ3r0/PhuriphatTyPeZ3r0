@@ -95,7 +95,7 @@ _GitHub strips `<script>`/`<iframe>` out of README rendering, so this can't run 
 | **RoV-SN-Tournament-Official** | TypeScript, PostgreSQL | [Live](https://ro-v-sn-tournament-official.vercel.app) · [Repo](https://github.com/PhuriphatTyPeZ3r0/RoV-SN-Tournament-Official) |
 | **CKD-Diet-Tracker** | JavaScript, PostgreSQL | [Live](https://ckd-diet-tracker.vercel.app) · [Repo](https://github.com/PhuriphatTyPeZ3r0/CKD-Diet-Tracker) |
 | **Bio-Website** | TypeScript | [Live](https://bio-website-ten.vercel.app) · [Repo](https://github.com/PhuriphatTyPeZ3r0/Bio-Website) |
-| **Portfolio** | TypeScript | [Live](https://resume-phuriphat-hemakul.vercel.app) · [Repo](https://github.com/PhuriphatTyPeZ3r0/Portfolio) |
+| **Portfolio** | TypeScript | [Live](https://portfolio-phuriphatizamus-projects.vercel.app) · [Repo](https://github.com/PhuriphatTyPeZ3r0/Portfolio) |
 | **Hand-to-Text** | Python | [Repo](https://github.com/PhuriphatTyPeZ3r0/Hand-to-Text) |
 
 </div>
